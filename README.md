@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre]!
+# Hola, soy Francesc!
 
 Bienvenido a mi perfil de GitHub. 
 
@@ -6,5 +6,5 @@ Bienvenido a mi perfil de GitHub.
 Soy un apasionado del desarrollo web con experiencia en JavaScript, Python y otros.
 
 ## Mis Proyectos
-- [Nombre del Proyecto](link_a_tu_proyecto)
+- MiPractica(https://github.com/francesc-barcelo/MiPractica.git)
 - Otro Proyecto
